@@ -9,3 +9,5 @@ while guess != number:
         print("guess is high")
     else:
         print("congrats, your guess is correct")
+    print("Thanks for playing!")
+
